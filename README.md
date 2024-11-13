@@ -1,4 +1,4 @@
-![Screenshot (192)](https://github.com/user-attachments/assets/ea1ca10b-42ad-4d54-aa57-378fdfc0afbb)![Screenshot (193)](https://github.com/user-attachments/assets/fdcfff89-0d4c-4203-899f-bc7eaffd391a)![Screenshot (194)](https://github.com/user-attachments/assets/3c81c3b7-bfa0-49e9-89ba-f2bd4cb6644d)# LoginSystem-PHP
+# LoginSystem-PHP
 A simple PHP-based authentication system using MVC architecture, with secure login, signup, and profile management via sessions and MySQL.
 
 
