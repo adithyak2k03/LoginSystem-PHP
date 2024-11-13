@@ -1,4 +1,4 @@
-# LoginSystem-PHP
+![Login_signup_profile](https://github.com/user-attachments/assets/6a222ab7-ed8e-4d60-9007-b4e0953e97b2)# LoginSystem-PHP
 A simple PHP-based authentication system using MVC architecture, with secure login, signup, and profile management via sessions and MySQL.
 
 
@@ -12,10 +12,13 @@ A simple PHP-based authentication system using MVC architecture, with secure log
 
 - PHP’s Extensive Built-in Functions: I explored the rich set of built-in functions in PHP, which greatly simplified backend tasks such as data validation, session management, and database interaction, allowing for faster and more efficient development.
 
-![Screenshot (191)](https://github.com/user-attachments/assets/be3348b1-5c19-422c-bb1f-d18949c72b4b)
+<!--![Screenshot (191)](https://github.com/user-attachments/assets/be3348b1-5c19-422c-bb1f-d18949c72b4b)
 ![Screenshot (192)](https://github.com/user-attachments/assets/365867e1-f834-4396-af63-92f889aa5b0c)
 ![Screenshot (193)](https://github.com/user-attachments/assets/50720073-be9d-42bb-8aeb-05295cbc244a)
 ![Screenshot (194)](https://github.com/user-attachments/assets/b8c7f18c-8bee-4e41-84d6-edbb2cea9413)
+-->
+
+![Login_signup_profile](https://github.com/user-attachments/assets/3f84cd39-15ec-4fe4-9823-be9828c7a197)
 
 
 ## Future Works
