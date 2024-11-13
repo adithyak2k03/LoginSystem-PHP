@@ -1,0 +1,8 @@
+/* reset.css - this will reset browser default styling */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
