@@ -11,5 +11,7 @@ A simple PHP-based authentication system using MVC architecture, with secure log
 - PHP’s Extensive Built-in Functions: I explored the rich set of built-in functions in PHP, which greatly simplified backend tasks such as data validation, session management, and database interaction, allowing for faster and more efficient development.
 
 
+## Future Works
+User and Admin Login Functionality: In future iterations, I plan to implement role-based authentication to differentiate between regular users and admin users.
 
-References : DaniKrossing's PHP for beginners playlist.
+### References : DaniKrossing's PHP for beginners playlist.
